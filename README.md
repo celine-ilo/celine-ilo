@@ -1,6 +1,6 @@
 ## Celine Ilo
 
-PhD, Energy and Sustainable Development. Founder of Nova Cyclos.
+PhD, Energy and Sustainable Development. Founder, Nova Cyclos.
 
 ### Sustainability data analysis and data science
 
