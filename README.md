@@ -13,11 +13,13 @@ the frameworks that make a choice between options defensible.
 ### Current projects
 
 **UK packaging extended producer responsibility**
+
 Analysis of PRN and PERN compliance data and reported packaging data across
 the UK producer register. Examining obligation coverage, recovery note flows
 and where the reported figures do and do not reconcile.
 
 **Digital transformation of plastics value chains**
+
 Doctoral research modelling the digital transformation of the plastics value
 chain in Nigeria, and the frameworks developed from it: the Hybrid Systems
 Transition Model and the Big-Stream framework. Extends into digital
@@ -26,13 +28,14 @@ responsibility, sectoral systems of innovation, and collaborative research on
 circular business models.
 
 **Circular bioeconomy feasibility**
+
 Site-based assessment of integrated bioenergy, biofertiliser and feed
 production, using a weighted multi-criteria decision framework combined with
 first-order resource balances.
 
 ### Tools
 
-| | |
+| Area | Tools |
 |---|---|
 | Analysis | Python (pandas), Excel |
 | Visualisation | Tableau |
